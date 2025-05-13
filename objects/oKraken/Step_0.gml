@@ -1,0 +1,8 @@
+/// @description Insert description here
+// You can write your code in this editor
+
+// Inherit the parent event
+event_inherited();
+if (HP <= 0) global.KillBoss = true;
+if (oPlayer.PlayerSkill == oSkillB) instance_destroy();
+

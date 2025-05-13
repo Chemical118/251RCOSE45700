@@ -1,0 +1,24 @@
+// 전역변수 처리
+randomize(); 
+global.gamePaused = false;
+global.textSpeed = 0.75;
+global.targetRoom = -1;
+global.targetX = -1;
+global.targetY = -1;
+global.targetDirection = -  1;
+global.hp = 6;
+global.maxhp = 6;
+global.SkillSpeed = 2;
+global.SkillCool = 120;
+global.SkillDamage = 2;
+global.spriteRun = playermov;
+global.spriteIdle = playeridle;
+global.spriteAttack = playeratt;
+global.spriteSkill = -1;
+global.HaveSkill = false;
+global.PlayerSkill = -1;
+global.ShieldHave = false;
+global.KillBoss = false;
+global.iCamera = instance_create_layer(0,0,layer,oCamera);
+surface_resize(application_surface, RESOLUTION_W, RESOLUTION_H);
+room_goto(ROOM_START);

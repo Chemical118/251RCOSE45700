@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FirstTalk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FirstTalk",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
