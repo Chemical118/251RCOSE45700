@@ -26,9 +26,12 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"TargetEnemy","filters":[],"listItems":[],"multiselect":false,"name":"TargetEnemy","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"oNPC","path":"objects/oNPC/oNPC.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oNPC","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"TargetEnemy","filters":[],"listItems":[],"multiselect":false,"name":"TargetEnemy","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"oVillager","path":"objects/oVillager/oVillager.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oVillager","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"EnemySpotNum","filters":[],"listItems":[],"multiselect":false,"name":"EnemySpotNum","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"EnemySpotEnemyNum","filters":[],"listItems":[],"multiselect":false,"name":"EnemySpotEnemyNum","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"IsFixFrame","filters":[],"listItems":[],"multiselect":false,"name":"IsFixFrame","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"FixFrameStart","filters":[],"listItems":[],"multiselect":false,"name":"FixFrameStart","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"FixFrameEnd","filters":[],"listItems":[],"multiselect":false,"name":"FixFrameEnd","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

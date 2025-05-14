@@ -33,7 +33,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.0.190",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"251RCOSE45700",
   "resources":[
@@ -52,7 +52,6 @@
     {"id":{"name":"object34","path":"objects/object34/object34.yy",},},
     {"id":{"name":"object43","path":"objects/object43/object43.yy",},},
     {"id":{"name":"object45","path":"objects/object45/object45.yy",},},
-    {"id":{"name":"object47","path":"objects/object47/object47.yy",},},
     {"id":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oEnemyPlace","path":"objects/oEnemyPlace/oEnemyPlace.yy",},},
@@ -102,6 +101,7 @@
     {"id":{"name":"oTitleNPC","path":"objects/oTitleNPC/oTitleNPC.yy",},},
     {"id":{"name":"over","path":"objects/over/over.yy",},},
     {"id":{"name":"over1","path":"objects/over1/over1.yy",},},
+    {"id":{"name":"oVillager","path":"objects/oVillager/oVillager.yy",},},
     {"id":{"name":"pEnemyBullet","path":"objects/pEnemyBullet/pEnemyBullet.yy",},},
     {"id":{"name":"pEnemyFollow","path":"objects/pEnemyFollow/pEnemyFollow.yy",},},
     {"id":{"name":"pEnemyPlace","path":"objects/pEnemyPlace/pEnemyPlace.yy",},},

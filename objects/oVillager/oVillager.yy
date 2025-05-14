@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"object47",
+  "%Name":"oVillager",
   "eventList":[],
   "managed":true,
-  "name":"object47",
+  "name":"oVillager",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"propertyId":{"name":"entityActivateArgs","path":"objects/pEntity/pEntity.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"[\"Well done brave adventurer!\",1,[\"35:Hi there, what's next?\"]]",},
   ],
