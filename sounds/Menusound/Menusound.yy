@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":66.19428,
   "name":"Menusound",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Menusound",
   "type":0,
-  "volume":1.0,
+  "volume":0.46,
 }

@@ -1,5 +1,5 @@
 # COSE457 Game develop toy project
-All graphic assets are either copyrighted by me or drawn by others.
+All graphic assets are either not owned by me or were created by others.
 
 All Gamemaker source code is written by me.
 
