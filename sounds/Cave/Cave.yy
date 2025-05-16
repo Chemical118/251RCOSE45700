@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":169.40408,
   "name":"Cave",
   "parent":{
     "name":"Sounds",
