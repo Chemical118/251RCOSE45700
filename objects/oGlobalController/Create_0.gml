@@ -1,2 +1,2 @@
-CreateMazeMatrix(11, 11);
+CreateMazeMatrix(5, 5);
 global.ismaze = false;
